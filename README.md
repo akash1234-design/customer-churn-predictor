@@ -2,20 +2,28 @@
 
 An end-to-end Machine Learning web app that predicts if a telecom customer will churn. Built with Python, Scikit-learn & Streamlit.
 
-### 🚀 Demo
-**[Live App Link - Coming Soon]** ← Ye deploy ke baad update karenge
+### 🚀 Live Demo
+**[Live App Link - Deploying on Streamlit Cloud]**
 
 ### 📊 Model Performance
 - **Algorithm:** Random Forest Classifier
 - **Accuracy:** 79%
 - **Dataset:** Telco Customer Churn from Kaggle
-- **Features:** 19 customer attributes like Tenure, Contract, Monthly Charges, Internet Service
+- **Features:** 19 customer attributes like Tenure, Contract, Monthly Charges
 
 ### 🛠️ Tech Stack
 `Python` `Pandas` `Scikit-learn` `Streamlit` `Joblib` `NumPy`
 
-### 📷 Screenshot
-Add your dashboard screenshot here
+### 📷 Dashboard Screenshots
+
+**1. App Interface**
+![Dashboard Home](dashboard-home.png)
+
+**2. Low Churn Risk - 93% Stay Probability** 
+![Low Risk](dashboard-low-risk.png)
+
+**3. High Churn Risk - 57% Churn Probability**
+![High Risk](dashboard-high-risk.png)
 
 ### 💻 How to Run Locally
 ```bash
