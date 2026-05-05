@@ -19,10 +19,10 @@ An end-to-end Machine Learning web app that predicts if a telecom customer will 
 **1. App Interface**
 ![Dashboard Home](dashboard-home.png)
 
-**3. High Churn Risk - 57% Churn Probability**
+**2. High Churn Risk - 93% Churn Probability**
 ![High Risk](dashboard-high-risk.png)
 
-**2. Low Churn Risk - 93% Stay Probability** 
+**3. Low Churn Risk - 57% Stay Probability** 
 ![Low Risk](dashboard-low-risk.png)
 
 ### 💻 How to Run Locally
