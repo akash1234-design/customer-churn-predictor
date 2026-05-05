@@ -3,7 +3,7 @@
 An end-to-end Machine Learning web app that predicts if a telecom customer will churn. Built with Python, Scikit-learn & Streamlit.
 
 ### 🚀 Live Demo
-**[Click Here to Try the Live App](https://https://customer-churn-predictor-e6hpxpbtpmmzxyynysrgb5.streamlit.app)**
+**[Click Here to Try the Live App](https://customer-churn-predictor-e6hpxpbtpmmzxyynysrgb5.streamlit.app/)**
 
 ### 📊 Model Performance
 - **Algorithm:** Random Forest Classifier
